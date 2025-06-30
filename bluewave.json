@@ -1,0 +1,11 @@
+{
+  "github": "luckysamuel1918",
+  "subdomain": "bluewavetransport",
+  "owner": {
+    "email": "bluewavetransport95@gmail.com"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "blue-wave-transport.vercel.app"
+  }
+}
